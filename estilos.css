@@ -1,0 +1,7 @@
+.contenedor1{
+  display: flex;
+  justify-content: row;
+  align-content: center;
+  border: 1px red;
+  width: 100%;
+}
